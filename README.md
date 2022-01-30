@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshay-alpha
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 👀 I’m interested in Computer Systems and Programming.
+- 🌱 I’m currently learning Data Science Machine Learning and NLP
 - 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me >> mail me @ toranagattiakshay@gmail.com
 
